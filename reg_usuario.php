@@ -10,7 +10,7 @@
 		<h1>IDEAS EN SOFTWARE</h1>
 	</header>
 	<nav>
-		<button><a href="reg_usuario.php">Registrar Usuario</a></button>
+		<button><a href="login.php">Registrar Usuario</a></button>
 	</nav>
 	<section>
 		Contenido principal
